@@ -22,6 +22,7 @@ A experiência incluiu a exportação do dashboard para o PowerPoint, facilitand
 - **Microsoft PowerPoint**: Para apresentação das análises de forma visual e profissional.  
 
 **Dica**
+
 Para visualizar o Dashboard em formato **mobile** é necessário fazer o download do aplicativo **Microsoft PowerBi** que está disponível para na **PlayStore** e **App Store**
 
 **Nota**  
