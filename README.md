@@ -26,3 +26,6 @@ Para visualizar o Dashboard em formato **mobile** é necessário fazer o downloa
 
 ## Nota  
 Este projeto tem caráter educacional e é destinado exclusivamente para fins de aprendizado e desenvolvimento de habilidades em análise de dados.
+
+## Links
+https://senacspedu-my.sharepoint.com/:p:/g/personal/wendell_falves_senacsp_edu_br/EQgLTa4rJuxNsylQWbvjWdQBJ9WEgjeXeMxeZUAgBdcOmg?e=c0SvhT
