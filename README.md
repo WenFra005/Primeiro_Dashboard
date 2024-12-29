@@ -30,3 +30,4 @@ Este projeto tem caráter educacional e é destinado exclusivamente para fins de
 ## Links para visualizar o projeto
 [Apresentação do Dashboard](https://senacspedu-my.sharepoint.com/:p:/g/personal/wendell_falves_senacsp_edu_br/EQgLTa4rJuxNsylQWbvjWdQBJ9WEgjeXeMxeZUAgBdcOmg?e=3gLSGM)
 
+https://app.powerbi.com/reportEmbed?reportId=9f1f310e-0d36-455b-8e9e-0bc3057d59fa&autoAuth=true&ctid=6f9e3b1e-1809-444a-81d3-82d40a928812
