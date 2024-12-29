@@ -1,6 +1,6 @@
 # README: Primeiro Dashboard (Desafio DIO)
 
-**Descrição**  
+## Descrição  
 Este projeto é um desafio de criação de dashboard proposto pela Digital Innovation One (DIO) com o objetivo de aprender e praticar a utilização da ferramenta Power BI. O dashboard desenvolvido oferece uma análise visual de vendas, lucros e unidades vendidas, segmentados por produtos, países e segmentos de mercado.
 
 **Objetivos**  
@@ -21,6 +21,8 @@ A experiência incluiu a exportação do dashboard para o PowerPoint, facilitand
 - **Power BI Desktop**: Para manipulação de dados, criação de relatórios e dashboards interativos.  
 - **Microsoft PowerPoint**: Para apresentação das análises de forma visual e profissional.  
 
+**Dica**
+Para visualizar o Dashboard em formato **mobile** é necessário fazer o download do aplicativo **Microsoft PowerBi** que está disponível para na **PlayStore** e **App Store**
+
 **Nota**  
 Este projeto tem caráter educacional e é destinado exclusivamente para fins de aprendizado e desenvolvimento de habilidades em análise de dados.
-
