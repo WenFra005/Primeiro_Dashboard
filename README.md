@@ -23,3 +23,5 @@ A experiência incluiu a exportação do dashboard para o PowerPoint, facilitand
 
 **Nota**  
 Este projeto tem caráter educacional e é destinado exclusivamente para fins de aprendizado e desenvolvimento de habilidades em análise de dados.
+
+<iframe title="Primeiro Dashboard (DesafioDIO)" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=9f1f310e-0d36-455b-8e9e-0bc3057d59fa&autoAuth=true&ctid=6f9e3b1e-1809-444a-81d3-82d40a928812" frameborder="0" allowFullScreen="true"></iframe>
