@@ -27,16 +27,18 @@ Este projeto tem caráter educacional e é destinado exclusivamente para fins de
 ## Imagens do projeto
 ### Página 1
 <div align="center">
-  <img src="https://github.com/WenFra005/Primeiro_Dashboard/blob/main/powerBI-images/Slide2.PNG" 
+  <img src="https://github.com/WenFra005/Primeiro_Dashboard/blob/main/powerBI-images/Slide2.PNG"/>
 </div>
+
 ### Página 2
+
 <div align="center">
-  <img src="https://github.com/WenFra005/Primeiro_Dashboard/blob/main/powerBI-images/Slide3.PNG" 
+  <img src="https://github.com/WenFra005/Primeiro_Dashboard/blob/main/powerBI-images/Slide3.PNG"/>
 </div>
+
 ### Página 3
+
 <div align="center">
-  <img src="https://github.com/WenFra005/Primeiro_Dashboard/blob/main/powerBI-images/Slide4.PNG" 
+  <img src="https://github.com/WenFra005/Primeiro_Dashboard/blob/main/powerBI-images/Slide4.PNG"/>
 </div>
-
-
 
