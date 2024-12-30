@@ -21,13 +21,22 @@ A experiência incluiu a exportação do dashboard para o PowerPoint, facilitand
 - **Power BI Desktop**: Para manipulação de dados, criação de relatórios e dashboards interativos.  
 - **Microsoft PowerPoint**: Para apresentação das análises de forma visual e profissional.  
 
-## Dica
-Para visualizar o Dashboard em formato **mobile** é necessário fazer o download do aplicativo **Microsoft PowerBi** que está disponível para na **PlayStore** e **App Store**
-
 ## Nota  
 Este projeto tem caráter educacional e é destinado exclusivamente para fins de aprendizado e desenvolvimento de habilidades em análise de dados.
 
-## Links para visualizar o projeto
-[Apresentação do Dashboard](https://senacspedu-my.sharepoint.com/:p:/g/personal/wendell_falves_senacsp_edu_br/EQgLTa4rJuxNsylQWbvjWdQBJ9WEgjeXeMxeZUAgBdcOmg?e=3gLSGM)
+## Imagens do projeto
+### Página 1
+<div align="center">
+  <img src="https://github.com/WenFra005/Primeiro_Dashboard/blob/main/powerBI-images/Slide2.PNG" 
+</div>
+### Página 2
+<div align="center">
+  <img src="https://github.com/WenFra005/Primeiro_Dashboard/blob/main/powerBI-images/Slide3.PNG" 
+</div>
+### Página 3
+<div align="center">
+  <img src="https://github.com/WenFra005/Primeiro_Dashboard/blob/main/powerBI-images/Slide4.PNG" 
+</div>
 
-https://app.powerbi.com/reportEmbed?reportId=9f1f310e-0d36-455b-8e9e-0bc3057d59fa&autoAuth=true&ctid=6f9e3b1e-1809-444a-81d3-82d40a928812
+
+
